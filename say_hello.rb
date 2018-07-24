@@ -6,4 +6,4 @@ end
   
 
 say_hello("minka","teresa")
-say_hello("teresa,"minka")
+say_hello("teresa","minka")
