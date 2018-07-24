@@ -1,9 +1,9 @@
 # Build your say_hello method here
 
-def say_hello(your_name,my_name)
- puts "Hello #{your_name}! im #{my_name}"
+def say_hello(your_name = "Ruby Programmer")
+ puts "Hello #{your_name}!"
 end
   
 
-say_hello("minka","teresa")
-say_hello("teresa","minka")
+say_hello("minka")
+say_hello(
