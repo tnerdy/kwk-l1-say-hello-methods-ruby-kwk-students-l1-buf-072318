@@ -6,4 +6,3 @@ end
   
 
 say_hello("minka")
-say_hello(
