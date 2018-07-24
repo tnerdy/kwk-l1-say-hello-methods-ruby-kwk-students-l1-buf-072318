@@ -1,8 +1,8 @@
 # Build your say_hello method here
-your_name= "Teresa"
-def say_hello(name)
- puts "Hello #{your_name}
+
+def say_hello (your_name)
+ puts "Hello #{your_name}! im #{my_name}
 end
   
-say_hello(teresa) 
+
 
